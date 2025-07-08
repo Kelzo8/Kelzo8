@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me james.kelly991@yahoo.com or https://www.linkedin.com/in/jameskellyise 
 - ⚡ Fun fact: I am a second year student in the Immersive Software Engineering course in UL
+- 👨‍💻 Portfolio: https://kelz0.netlify.app
 
 <!---
 Kelzo8/Kelzo8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
